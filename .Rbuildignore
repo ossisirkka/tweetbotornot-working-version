@@ -1,0 +1,12 @@
+^codecov\.yml$
+^\.travis\.yml$
+^pkgdown$
+^docs$
+^_pkgdown\.yml$
+^\.Rproj\.user$
+^make\.R$
+^.*\.Rproj$
+^LICENSE\.md$
+^README\.Rmd$
+^cran-comments\.md$
+^TODO\.md$
